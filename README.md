@@ -13,3 +13,7 @@ Click Create repository from template and we’re ready to build our first Actio
 
 
 If you have arrived here from the [Intermediate automation strategies with GitHub Actions](https://resources.github.com/learn/pathways/automation/intermediate/workflow-automation-with-github-actions/) module without following the first module, copy the contents of the `/demo-files` folder into the `.github/workflows` folder to follow along.
+
+Erwin
+Guide 1: https://resources.github.com/learn/pathways/automation/essentials/building-a-workflow-with-github-actions/
+Guide 2: https://resources.github.com/learn/pathways/automation/essentials/how-to-make-an-application-with-github-actions/
