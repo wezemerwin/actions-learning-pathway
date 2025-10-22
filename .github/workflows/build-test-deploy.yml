@@ -1,7 +1,5 @@
 name: build-test-deploy
 
-#test2
-
 on: push
 
 jobs:
